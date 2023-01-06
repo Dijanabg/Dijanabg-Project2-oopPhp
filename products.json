@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"image": "images/t1.png",
+		"name": "Xiaomi Mi3 = sivi",
+		"price": 32000,
+		"quantity": 1,
+		"catname": "Trotinet"
+	},
+	{
+		"id": 2,
+		"image": "images/t2.png",
+		"name": "Ring RX2 - crni",
+		"price": 44900,
+		"quantity": 1,
+		"catname": "Trotinet"
+	},
+	{
+		"id": 3,
+		"image": "images/t3.png",
+		"name": "Pro-II Plus - crni",
+		"price": 72000,
+		"quantity": 1,
+		"catname": "Trotinet"
+	},
+	{
+		"id": 4,
+		"image": "images/b1.png",
+		"name": "UrbanBike - beli",
+		"price": 14900,
+		"quantity": 1,
+		"catname": "Bicikl"
+	},
+	{
+		"id": 5,
+		"image": "images/b2.png",
+		"name": "UrbanBike Aurora",
+		"price": 18900,
+		"quantity": 1,
+		"catname": "Bicikl"
+	},
+	{
+		"id": 6,
+		"image": "images/b3.png",
+		"name": "UrbanBike Xtreme 26",
+		"price": 17990,
+		"quantity": 1,
+		"catname": "Bicikl"
+	}
+]
